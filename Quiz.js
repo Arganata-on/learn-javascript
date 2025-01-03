@@ -1,4 +1,4 @@
-function isPrime(number) {
+function checkEvenOdd(number) {
   if (number % 2 == 0) {
     return "EVEN";
   } else {
@@ -6,4 +6,4 @@ function isPrime(number) {
   }
 }
 let number = 4;
-console.log(isPrime(number));
+console.log(checkEvenOdd(number));
