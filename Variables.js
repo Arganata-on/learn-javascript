@@ -14,7 +14,23 @@ console.log(`Your gpa is: ${gpa}`);
 console.log(typeof age);
 */
 
+/*
 let firstName = "Arganata";
+let favoriteFood = "Pizza";
+let email = "arganata.on@gmail.com";
 
 console.log(typeof firstName);
 console.log(`Your name is ${firstName}`);
+console.log(typeof favoriteFood);
+console.log(`You like ${favoriteFood}`);
+console.log(typeof email);
+console.log(`Your email is ${email}`);
+*/
+
+let online = true;
+let forSale = false;
+
+console.log(typeof online);
+console.log(`Arganata is online: ${online}`);
+console.log(typeof forSale);
+console.log(`Is this car for sale: ${forSale}`);
