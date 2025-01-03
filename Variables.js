@@ -27,10 +27,19 @@ console.log(typeof email);
 console.log(`Your email is ${email}`);
 */
 
+/*
 let online = true;
 let forSale = false;
+let isStudent = true;
 
 console.log(typeof online);
 console.log(`Arganata is online: ${online}`);
 console.log(typeof forSale);
 console.log(`Is this car for sale: ${forSale}`);
+console.log(typeof isStudent);
+console.log(`Enrolled: ${isStudent}`);
+*/
+
+let fullName = "Arganata";
+let age = 21;
+let student = true;
