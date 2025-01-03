@@ -42,4 +42,8 @@ console.log(`Enrolled: ${isStudent}`);
 
 let fullName = "Arganata";
 let age = 21;
-let student = true;
+let isStudent = true;
+
+document.getElementById("p1").textContent = fullName;
+document.getElementById("p2").textContent = age;
+document.getElementById("p3").textContent = isStudent;
